@@ -1,0 +1,8 @@
+mat-toolbar {
+  background-color: blueviolet;
+  padding: 20px;
+}
+
+.mat-button {
+  margin-left: 20px;
+}
